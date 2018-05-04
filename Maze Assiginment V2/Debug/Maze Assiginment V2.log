@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Maze Assiginment V2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Window.cpp
+  TreasureObject.cpp
+  Source.cpp
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Room.cpp
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\room.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\room.cpp(169): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\room.cpp(184): warning C4018: '<': signed/unsigned mismatch
+  RandomMonster.cpp
+  PropObject.cpp
+  player.cpp
+  Object.cpp
+  Monsters.cpp
+  Key.cpp
+  Gun.cpp
+  Game.cpp
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\game.cpp(3): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\game.cpp(9): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\game.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\game.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\game.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  FlashLight.cpp
+  FixedObject.cpp
+  Door.cpp
+  Chest.cpp
+d:\fci\2.1\programming 2\project\20150272-20150273-20150197-2015189-20150091\project\maze assiginment v2\chest.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  ChasedMonster.cpp
+  Agents.cpp
+  Generating Code...
+  Maze Assiginment V2.vcxproj -> D:\FCI\2.1\Programming 2\Project\20150272-20150273-20150197-2015189-20150091\Project\Debug\Project.exe
+  Maze Assiginment V2.vcxproj -> D:\FCI\2.1\Programming 2\Project\20150272-20150273-20150197-2015189-20150091\Project\Debug\Project.pdb (Full PDB)
